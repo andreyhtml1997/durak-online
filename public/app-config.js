@@ -4,6 +4,6 @@
 // ПОСЛЕ ДЕПЛОЯ: впишите сюда адрес сервера и пересоберите APK (tools/build-apk.mjs).
 window.DURAK_CONFIG = {
   transport: 'lan',
-  onlineServer: 'https://durak-online.onrender.com',
+  onlineServer: 'https://durak-online-mprl.onrender.com',
   publicBaseUrl: ''
 };
